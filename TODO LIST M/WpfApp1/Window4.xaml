@@ -1,0 +1,32 @@
+﻿<Window x:Class="WpfApp1.Window4"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Window4" Height="600" Width="600">
+    <Grid Background="Ivory">
+        <Border x:Name="Border1" Background="RoyalBlue" BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="90" VerticalAlignment="Top" Width="561" Margin="10,10,0,0"/>
+        <Label Foreground="Ivory" Content="Создай задачу, щёлкнув на соответствующее поле. &#xA;Для добавления записей нажми Enter. &#xA;Удалить запись можно по кнопке Delete." HorizontalAlignment="Left" VerticalAlignment="Top" Width="534" Margin="24,17,0,0" FontSize="16" RenderTransformOrigin="0.487,0.512" Height="83" FontWeight="Bold"/>
+        <Button x:Name="Button1" Foreground="RoyalBlue" Background="LightGray" Content="ЗАКРЫТЬ" HorizontalAlignment="Left" Margin="10,511,0,0" VerticalAlignment="Top" Width="78" Height="37" FontWeight="Bold" Click="Button1_Click"/>
+        <DataGrid Background="Ivory" Foreground="RoyalBlue" Margin="10,109,10,63" x:Name="dgToDoList" FontSize="13.5" FontWeight="Bold" Loaded="dgToDoList_Loaded" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding Path=ЗАДАЧА}" IsReadOnly="False" Header="ЗАДАЧА" Width="*"/>
+                <DataGridTemplateColumn Header="Выбери дату" Width="120">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <TextBlock Text="{Binding Path=MyDate}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                    <DataGridTemplateColumn.CellEditingTemplate>
+                        <DataTemplate>
+                            <DatePicker SelectedDate="{Binding Path=MyDate}"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellEditingTemplate>
+                </DataGridTemplateColumn>
+                <DataGridCheckBoxColumn Binding="{Binding Path=ГОТОВНОСТЬ, UpdateSourceTrigger=PropertyChanged}" IsReadOnly="False" Header="Готово" Width="55"/>
+            </DataGrid.Columns>
+        </DataGrid>
+    </Grid>
+</Window>

@@ -1,0 +1,86 @@
+E:\TODO LIST\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+E:\TODO LIST\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\TODO LIST\WpfApp1\obj\Debug\Window1.g.cs
+E:\TODO LIST\WpfApp1\obj\Debug\App.g.cs
+E:\TODO LIST\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\TODO LIST\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\TODO LIST\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\TODO LIST\WpfApp1\bin\Debug\WpfApp1.exe
+E:\TODO LIST\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\TODO LIST\WpfApp1\obj\Debug\MainWindow.baml
+E:\TODO LIST\WpfApp1\obj\Debug\Window1.baml
+E:\TODO LIST\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\TODO LIST\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\TODO LIST\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\TODO LIST\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\TODO LIST\WpfApp1\obj\Debug\WpfApp1.exe
+E:\TODO LIST\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\TODO LIST\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\TODO LIST\WpfApp1\bin\Debug\WpfApp1.exe
+D:\TODO LIST\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\TODO LIST\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\TODO LIST\WpfApp1\obj\Debug\Window1.g.cs
+D:\TODO LIST\WpfApp1\obj\Debug\App.g.cs
+D:\TODO LIST\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\TODO LIST\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\TODO LIST\WpfApp1\obj\Debug\MainWindow.baml
+D:\TODO LIST\WpfApp1\obj\Debug\Window1.baml
+D:\TODO LIST\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\TODO LIST\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\TODO LIST\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\TODO LIST\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\TODO LIST\WpfApp1\obj\Debug\WpfApp1.exe
+D:\TODO LIST\WpfApp1\obj\Debug\WpfApp1.pdb
+E:\TODO LIST\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+E:\TODO LIST\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+E:\TODO LIST\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+D:\TODO LIST\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+D:\TODO LIST\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+D:\TODO LIST\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+E:\TODO LIST\WpfApp1\obj\Debug\Window2.g.cs
+E:\TODO LIST\WpfApp1\obj\Debug\Window2.baml
+E:\TODO LIST\WpfApp1\obj\Debug\Window3.g.cs
+E:\TODO LIST\WpfApp1\obj\Debug\Window4.g.cs
+E:\TODO LIST\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+E:\TODO LIST\WpfApp1\bin\Debug\Database1.mdf
+E:\TODO LIST\WpfApp1\bin\Debug\Database1_log.ldf
+E:\TODO LIST\WpfApp1\obj\Debug\Window3.baml
+E:\TODO LIST\WpfApp1\obj\Debug\Window4.baml
+D:\TODO LIST\WpfApp1\bin\Debug\Database1.mdf
+D:\TODO LIST\WpfApp1\bin\Debug\Database1_log.ldf
+D:\TODO LIST\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\TODO LIST\WpfApp1\obj\Debug\Window2.g.cs
+D:\TODO LIST\WpfApp1\obj\Debug\Window3.g.cs
+D:\TODO LIST\WpfApp1\obj\Debug\Window4.g.cs
+D:\TODO LIST\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+D:\TODO LIST\WpfApp1\obj\Debug\Window2.baml
+D:\TODO LIST\WpfApp1\obj\Debug\Window3.baml
+D:\TODO LIST\WpfApp1\obj\Debug\Window4.baml
+D:\TODO LIST M\WpfApp1\bin\Debug\Database1.mdf
+D:\TODO LIST M\WpfApp1\bin\Debug\Database1_log.ldf
+D:\TODO LIST M\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\TODO LIST M\WpfApp1\bin\Debug\WpfApp1.exe
+D:\TODO LIST M\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\TODO LIST M\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+D:\TODO LIST M\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+D:\TODO LIST M\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+D:\TODO LIST M\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\TODO LIST M\WpfApp1\obj\Debug\Window1.g.cs
+D:\TODO LIST M\WpfApp1\obj\Debug\Window2.g.cs
+D:\TODO LIST M\WpfApp1\obj\Debug\Window3.g.cs
+D:\TODO LIST M\WpfApp1\obj\Debug\Window4.g.cs
+D:\TODO LIST M\WpfApp1\obj\Debug\App.g.cs
+D:\TODO LIST M\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+D:\TODO LIST M\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\TODO LIST M\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\TODO LIST M\WpfApp1\obj\Debug\MainWindow.baml
+D:\TODO LIST M\WpfApp1\obj\Debug\Window1.baml
+D:\TODO LIST M\WpfApp1\obj\Debug\Window2.baml
+D:\TODO LIST M\WpfApp1\obj\Debug\Window3.baml
+D:\TODO LIST M\WpfApp1\obj\Debug\Window4.baml
+D:\TODO LIST M\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\TODO LIST M\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\TODO LIST M\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+D:\TODO LIST M\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+D:\TODO LIST M\WpfApp1\obj\Debug\WpfApp1.exe
+D:\TODO LIST M\WpfApp1\obj\Debug\WpfApp1.pdb
